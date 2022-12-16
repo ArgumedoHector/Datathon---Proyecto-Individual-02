@@ -58,6 +58,17 @@ siendo $TP$ los verdaderos positivos, $TN$ verdaderos negativos y $P+N$ poblaci�
 >
 </p>
 
+## **Pasos a realizar**
+- En primera instancia se realiza un EDA para entende que tipos de datos tenemos y como estan distribuidos.
+- Luego se procede a hacer los cambios pertinentes para cada conjunto de datos.
+- Evaluamos la correlacion de los mismos.
+- Establecemos cual va a se el conjunto de datos a utilizar desechando aquello que no guarde correlacion.
+- Instanciamos un modelo de predicción, se entrena y se testea.
+- Procedemos a generar la prediciones correspondientes y necesarias.
+- Guardamos nuestra predicción para el conjunto de datos que se desea hacer la predicción.  
+
+
+
 ## **Archivos disponibles**
 ​
 Se trabaja con los siguientes archivos para realizar el proyecto:
@@ -83,6 +94,17 @@ Se trabaja con los siguientes archivos para realizar el proyecto:
 ​
 ## **Palabras finales**
 
-Despues de revisar un par de modelos me decidí por uno, en este caso particular **Arbol de Decicion**. Aún asi, podrán ver el desarrollo de otro modelo (k-vecinos), pero los resultados del mismo no terminó de dar los valores esperados. 
-Dejo ambos modelos para su consideracion 
+Despues de revisar un par de modelos me decidí por uno, en este caso particular **Arbol de Decicion**. Aún asi, podrán ver el desarrollo de otro modelo (k-vecinos) y la evualuacion de modelos con pipeline, pero los resultados de los mismos no terminó de dar los valores esperados. 
+Dejo ambos modelos y la evaluacion de modelos  para su consideracion.
 
+
+P/D: Tengan en cuanta la correcta refrigeracion de su equipo de trabajo, esto demanda tiempo y capacidad de procesamiento, aumentando considerablemente la temperatura del mismo. 
+
+Saludos.
+
+
+
+<p align="center">
+<img src="https://media.tenor.com/hEwfEcj2R60AAAAM/laptop-smoking.gif"   
+>
+</p>
