@@ -64,7 +64,7 @@ siendo $TP$ los verdaderos positivos, $TN$ verdaderos negativos y $P+N$ poblaci�
 - Evaluamos la correlacion de los mismos.
 - Establecemos cual va a se el conjunto de datos a utilizar desechando aquello que no guarde correlacion.
 - Instanciamos un modelo de predicción, se entrena y se testea.
-- Procedemos a generar la prediciones correspondientes y necesarias.
+- Procedemos a generar la predicciones correspondientes y necesarias.
 - Guardamos nuestra predicción para el conjunto de datos que se desea hacer la predicción.  
 
 
